@@ -1,0 +1,23 @@
+{
+  "name": "disk-cacambas-website",
+  "version": "1.0.0",
+  "description": "Site de aluguel de caçambas em São Paulo - Disk Caçambas",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve .",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": [
+    "caçamba",
+    "aluguel",
+    "entulho",
+    "são paulo",
+    "construção"
+  ],
+  "author": "Disk Caçambas",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
